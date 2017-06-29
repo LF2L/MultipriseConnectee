@@ -2,6 +2,8 @@
 
 ## Description
 La multiprise connectée permet de contrôler individuellement chacune des prises à distance mais également de programmer le déclenchement selon des plages horaires. 
+![exterieur](/images/DSC09150.JPG)
+![interieur](/images/DSC09142.JPG)
   
 ## Fonction
 * Alimenter chacune des prises en fonction de la demande de l’utilisateur 
@@ -15,6 +17,9 @@ La multiprise connectée permet de contrôler individuellement chacune des prise
 * Convertisseur 220V AC- 5V DC
 * Câbles 230V
 * Multiprise
+
+## Schéma d'assemblage électronique
+![schema](/images/multiprise_bb.png)
 
 ## Boitiers
 * Acrylique 3mm
@@ -36,5 +41,3 @@ La prise étant connectée au serveur, il est possible de désactiver la prise l
 * Réaliser les fonctions REST du serveur pour la commande de l’objet.
 * Script d’envoie du statut de l’objet et de réception des commande.
 * Fonction de programmation temporelle et déclenchement des prises.
-
-
