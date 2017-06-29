@@ -5,7 +5,7 @@ La multiprise connectée permet de contrôler individuellement chacune des prise
 ![exterieur](/images/DSC09150.JPG)
 ![interieur](/images/DSC09142.JPG)
   
-## Fonction
+## Fonctions
 * Alimenter chacune des prises en fonction de la demande de l’utilisateur 
 * Déclencher les prises en fonction des plages horaires programmées 
 * Couper l’alimentation électrique lors de demande délestage 
